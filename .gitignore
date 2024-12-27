@@ -1,2 +1,8 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
 /venv
 /logs
+standalone_admin_password.txt
+airflow.db
